@@ -10,3 +10,5 @@ The file `to_precision.py` allows numbers to be printed with an arbitrary number
 William Rusnack github.com/BebeSparkelSparkel linkedin.com/in/williamrusnack williamrusnack@gmail.com
 Eric Moyer github.com/epmoyer eric@lemoncrab.com
 Thomas Hladish https://github.com/tjhladish tjhladish@utexas.edu
+
+The file `voltammetry_paper_v11_code_APYA.py` can compute an arbitrary number of harmonics for an ACV experiment. The current for several first order mechanisms with one or two step charge transfer may be computed, and cell resistance and double layer charging current may be accounted for. The fundamental harmonic for second order mechanisms may also be computed. The code generates figures too.
