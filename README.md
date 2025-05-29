@@ -11,4 +11,4 @@ William Rusnack github.com/BebeSparkelSparkel linkedin.com/in/williamrusnack wil
 Eric Moyer github.com/epmoyer eric@lemoncrab.com
 Thomas Hladish https://github.com/tjhladish tjhladish@utexas.edu
 
-The file `voltammetry_paper_v11_code_APYA.py` can compute an arbitrary number of harmonics for an ACV experiment. The current for several first order mechanisms with one or two step charge transfer may be computed, and cell resistance and double layer charging current may be accounted for. The fundamental harmonic for second order mechanisms may also be computed. The code generates figures too.
+The file `voltammetry_paper_code_APYA.py` can compute an arbitrary number of harmonics for an ACV experiment. The current for several first order mechanisms with one or two step charge transfer may be computed, and cell resistance and double layer charging current may be accounted for. The fundamental harmonic for second order mechanisms may also be computed. The code generates figures too. The `_v2` file includes minor improvements and generates a figure to view several harmonics at once.
